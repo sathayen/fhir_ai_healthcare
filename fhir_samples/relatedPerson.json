@@ -1,0 +1,25 @@
+{
+    "resourceType": "RelatedPerson",
+    "id": "daughter1",
+    "patient": {
+      "reference": "Patient/dccf307f-620e-4266-a935-8e2ba654c527"
+    },
+    "relationship": {
+      "coding": [
+        {
+          "system": "http://terminology.hl7.org/CodeSystem/v3-RoleCode",
+          "code": "CHILD",
+          "display": "Daughter"
+        }
+      ]
+    },
+    "name": [
+      {
+        "use": "official",
+        "family": "Kirk",
+        "given": ["Jennifer"]
+      }
+    ],
+    "gender": "female",
+    "birthDate": "1990-05-10"
+  }

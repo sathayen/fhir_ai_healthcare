@@ -1,0 +1,22 @@
+{
+    "resourceType": "Patient",
+    "active": true,
+    "name": [
+        {
+            "use": "official",
+            "family": "Samson",
+            "given": [
+                "Mike",
+                "Anywhere"
+            ]
+        },
+        {
+            "use": "usual",
+            "given": [
+                "Test"
+            ]
+        }
+    ],
+    "gender": "male",
+    "birthDate": "1986-04-16"
+}
